@@ -96,7 +96,7 @@ Especially in south Richmond Hill area, naturally, because that is where I am. B
 
 <hr />
 
-# We might have an opportunity to do another meet-up at Microsoft
+## We might have an opportunity to do another meet-up at Microsoft
 
 Our [Jan 25th meet-up at Microsoft](https://github.com/local-toronto-php-groups/2024january25_meetup_gta-php) went very well. We might have an opportunity to hold another meet-up at Microsoft Canada, by way of Microsoft's Reactor, this fall.
 
@@ -119,7 +119,10 @@ What do you think?
 <br />
 
 <hr />
-# Comment!
+
+## Comment!
+
+
 - comment [here](https://github.com/local-toronto-php-groups/blog_posts/issues/1)
 - email me at bob.bloom@lasallesoftware.ca
 - my contact form is at [https://bobbloom.me/contactform/contactform](https://bobbloom.me/contactform/contactform)
