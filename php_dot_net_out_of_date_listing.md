@@ -11,7 +11,7 @@ Editing the listing... well, there is no login. To edit it, I would have to chas
 I have already chased an issue with the site down, which, in all honesty, took a bit of doing. The reason why there were no other of our meet-ups listed, is because I had an issue with the submit form. Well... it turned out that my issue was legit. See:
 
 - [https://github.com/php/web-php/issues/999](https://github.com/php/web-php/issues/999)
-- [https://github.com/php/web-php/pull/1017](https://github.com/php/web-php/pull/10170)
+- [https://github.com/php/web-php/pull/1017](https://github.com/php/web-php/pull/1017)
 
 Thank you for fixing this issue! Although, at the time of this writing, I have not had an opportunity to enter new meet-ups, since the fix. Now, I have our October 10th meet-up to list. I just saw our recurring listing, along with the subdomain to nowhere. 
 
