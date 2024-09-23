@@ -21,3 +21,5 @@ Check out this GitHub organization that I set up to see what's going on, and for
 
 Regards from Toronto. Looking forward to meeting you!
 -Bob Bloom
+
+UPDATE: I still cannot enter our Oct 10th, 2024 meet-up because "it does not look like a real PHP event", and there is no way to associate the meet-up with our GTA-PHP group. Well... have the events listed here!
