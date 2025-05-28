@@ -13,3 +13,7 @@ You must be able to cross the border. Passport, or whatever, in hand now. I hear
 If your employer does not sponsor your going to LaraconUS, then there is a very tiny small chance Laravel might grant substantial ticket credits. 
 
 I have already told the Laravel Community Liaises that we want to send someone to represent Laravel Toronto, as I am not attending. 
+
+Email me at "bob.bloom@lasallesoftware.ca". 
+
+-Bob
