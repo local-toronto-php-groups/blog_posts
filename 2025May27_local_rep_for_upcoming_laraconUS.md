@@ -17,3 +17,6 @@ I have already told the Laravel Community Liaises that we want to send someone t
 Email me at "bob.bloom@lasallesoftware.ca". 
 
 -Bob
+
+
+UPDATE: ok... just saw this on the new Discord server: `If you’re attending Laracon US, we are having a special meetup just for organizers! Register **here** — it’ll be a casual huddle to connect, share tips, and ask questions.`.  I will make sure you are signed up for this. 
